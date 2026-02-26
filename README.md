@@ -18,3 +18,44 @@ O objetivo principal é combater a evasão nas academias e estimular a disciplin
 - Incentivar disciplina e constância nos treinos
 - Criar senso de evolução através de níveis e conquistas
 - Fornecer métricas claras de desempenho
+
+---
+
+## ⚠️ Problema
+
+A evasão em academias é um problema recorrente. Muitos alunos iniciam seus treinos, mas desistem por falta de motivação, acompanhamento ou percepção de progresso.
+
+---
+
+## 💡 Proposta de Solução
+
+Desenvolver uma aplicação web que:
+
+- Registre treinos realizados
+- Atribua pontos (XP) por atividades concluídas
+- Crie um sistema de níveis
+- Ofereça recompensas virtuais ou até mesmo físicas
+- Estimule consistência através de streaks
+- Forneça feedback visual do progresso
+
+---
+
+## 🧠 Conceitos Aplicados
+
+- Gamificação
+- CRUD completo
+- Autenticação e autorização
+- Modelagem de banco de dados
+- Estrutura cliente-servidor
+- API REST
+- Versionamento com Git
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- Frontend: HTML5, CSS3, JavaScript
+- Backend: Java 17
+- Banco de Dados: MySQL
+- Autenticação: 
+- Controle de versão: Git e GitHub
